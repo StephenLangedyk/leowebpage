@@ -369,18 +369,11 @@ img {
   border-radius: 50%;
 }
 
-.instagramm {
-  height: 80px;
-  width: 80px;
-  align-items: center;
-}
-
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
   border-top: 1px solid #eeeeee;
-  width: 400px;
 }
 
 .sr-only {
