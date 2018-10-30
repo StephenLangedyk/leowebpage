@@ -89,9 +89,9 @@ body {
   position: relative; }
 
 a {
-  color: #2CA8FF; }
+  color: #ffffff; }
   a:hover, a:focus {
-    color: #109CFF;
+    color: #ffffff;
     text-decoration: none; }
 
 a:focus, a:active,
